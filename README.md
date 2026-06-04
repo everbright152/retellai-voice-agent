@@ -78,8 +78,6 @@ Open [http://localhost:3000](http://localhost:3000).
 3. Add environment variables in the Vercel dashboard
 4. Deploy
 
-Any `git push` to `main` auto-deploys.
-
 ---
 
 ## Stack
